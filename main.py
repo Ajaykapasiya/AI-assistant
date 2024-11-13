@@ -118,6 +118,10 @@ if __name__ == '__main__':
         elif "reset chat".lower() in query.lower():
             chatStr = ""
 
+        else:
+            print("Chatting...")
+            chat(query)
+
 
 
 
