@@ -1,0 +1,15 @@
+OpenAI response for Prompt: hello Sam using artificial intelligence write a email to my boss for increase my salary 
+ *************************
+
+
+
+Dear [Boss' Name], 
+
+I hope you are doing well. I am writing to request an increase in my salary. In the past year, I have worked hard to improve my job performance. I have exceeded expectations, taken on additional responsibilities, and have made positive contributions to the team.
+
+I believe I am worthy of a salary increase and have the necessary qualifications to support this request. I am confident I can continue to be an asset to the team and bring added value to the company.
+
+If there is any additional information I can provide to support my request, please let me know. I look forward to hearing from you soon.
+
+Sincerely, 
+[Your Name]
